@@ -1,0 +1,29 @@
+{
+  "name": "Mini-games for development",
+  "author": "Artem Ostrovskiy",
+  "email": "asostrovskiy@yandex.ru",
+  "description": "Mini-games for development",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VUIVR/mini-games-for-development.git"
+  },
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@element-plus/nuxt": "^1.0.4",
+    "nuxt": "^3.3.2"
+  },
+  "overrides": {
+    "vue": "latest"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.7",
+    "pinia": "^2.0.33"
+  }
+}
