@@ -1,5 +1,6 @@
 {
-  "name": "Mini-games for development",
+  "name": "mini-games-for-development",
+  "private": true,
   "author": "Artem Ostrovskiy",
   "email": "asostrovskiy@yandex.ru",
   "description": "Mini-games for development",
@@ -7,7 +8,6 @@
     "type": "git",
     "url": "https://github.com/VUIVR/mini-games-for-development.git"
   },
-  "private": true,
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@pinia/nuxt": "^0.4.7",
+    "element-plus": "^2.3.2",
     "pinia": "^2.0.33"
   }
 }
