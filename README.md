@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# Mini games for children
+
+All games are posted on the website asostrovskiy.ru
+=======
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
@@ -40,3 +45,4 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+>>>>>>> 12f1d7e (start project)
