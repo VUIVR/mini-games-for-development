@@ -1,6 +1,6 @@
 <template>
     <el-row>
-      контент
+      Контент
     </el-row>
 </template>
 
